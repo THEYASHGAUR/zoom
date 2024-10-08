@@ -5,7 +5,7 @@ import React, { ReactNode } from 'react'
 
 
 export const metadata: Metadata = {
-    title: "Zoom by Kunal",
+    title: "Zoom by Yash Gaur",
     description: "Video Calling App",
     icons : {
       icon : '/icons/logo.svg'

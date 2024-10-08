@@ -7,7 +7,7 @@ import { Toaster } from "@/components/ui/toaster"
 import '@stream-io/video-react-sdk/dist/css/styles.css'
 import 'react-datepicker/dist/react-datepicker.css'
 export const metadata: Metadata = {
-  title: "Zoom by Kunal",
+  title: "Zoom by Yash Gaur",
   description: "Video Calling App",
   icons : {
     icon : '/icons/logo.svg'
