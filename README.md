@@ -122,8 +122,11 @@ Ensure you set up your environment variables in Vercel for **Clerk** and **Strea
 
 ## Screenshots
 
-![Landing Page](path-to-screenshot-1.png)
-*Landing page with login/signup via Clerk.*
+![alt text](image-1.png)
+*Login/signup via Clerk.*
+
+![alt text](image.png)
+*Landing Page after login*
 
 ![Video Call](path-to-screenshot-2.png)
 *Real-time video call using Stream API.*
@@ -133,20 +136,10 @@ Ensure you set up your environment variables in Vercel for **Clerk** and **Strea
 - **Group Video Calls**: Implement group video calls for multiple users.
 - **Screen Sharing**: Add the ability to share screens during a call.
 - **Chat Functionality**: Enhance the app with a real-time messaging feature alongside video calls.
-- **Recording**: Enable users to record video calls for future reference.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## Contact
-
-For any inquiries or issues, reach out to me at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-This README covers a detailed explanation of your app’s functionality, tech stack, setup instructions, and future improvements. Make sure to update the placeholder paths (e.g., image links, URLs) to match your project specifics!
