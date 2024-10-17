@@ -128,7 +128,8 @@ Ensure you set up your environment variables in Vercel for **Clerk** and **Strea
 ![alt text](image.png)
 *Landing Page after login*
 
-![Video Call](path-to-screenshot-2.png)
+![image](https://github.com/user-attachments/assets/33ee4f11-cea9-465f-9a80-f97cae0edab9)
+
 *Real-time video call using Stream API.*
 
 ## Future Improvements
