@@ -134,8 +134,6 @@ Ensure you set up your environment variables in Vercel for **Clerk** and **Strea
 
 ## Future Improvements
 
-- **Group Video Calls**: Implement group video calls for multiple users.
-- **Screen Sharing**: Add the ability to share screens during a call.
 - **Chat Functionality**: Enhance the app with a real-time messaging feature alongside video calls.
 
 
